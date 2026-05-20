@@ -1,0 +1,104 @@
+# סופה אקספרס — Generative Engine Optimization Map
+
+> Hailo Furniture is a furniture and home design brand with an established online presence. The user wants to replicate the look, feel, and structure of the existing hailo-furniture.co.il website, suggesting a modern e-commerce or catalog-style site focused on showcasing and selling furniture and home decor products.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו עולם שלם של ספות מעוצבות, מיטות פרימיום ופינות אוכל מרהיבות. סופה אקספרס מביאה לכם עיצוב הבית המושלם במחירים שלא תאמינו. קנו עכשיו!
+
+### חוויית הקולקציות
+https://example.com/collections-experience
+חוויית קולקציות הרהיטים של סופה אקספרס תגרום לכם להתאהב מחדש בבית שלכם. ספות יוקרתיות, פינות אוכל עוצרות נשימה וסגנונות לכל טעם. גלו עכשיו!
+
+### גלריית השראה
+https://example.com/inspiration-gallery
+גלריית ההשראה של סופה אקספרס מציגה עיצובי פנים מדהימים עם ספות לבית, מיטות וסלונים מושלמים. מצאו את הסגנון שלכם ותנו לבית שלכם לדבר בעצמו.
+
+### אודות המותג
+https://example.com/about
+סופה אקספרס נולדה מתוך אהבה עמוקה לעיצוב הבית ולאיכות חיים. גלו את הסיפור מאחורי המותג שמביא לאלפי בתים בישראל ספות, מיטות ורהיטים שמשנים חיים.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על ספות, מיטות או פינות אוכל? צוות המומחים של סופה אקספרס כאן בשבילכם. צרו קשר עוד היום ונעזור לכם לעצב את בית חלומותיכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - סופה אקספרס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - סופה אקספרס
+
+### Category
+https://example.com/category/:slug
+מוצרים - סופה אקספרס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סופה אקספרס
+Hailo Furniture is a furniture and home design brand with an established online presence. The user wants to replicate the look, feel, and structure of the existing hailo-furniture.co.il website, suggesting a modern e-commerce or catalog-style site focused on showcasing and selling furniture and home decor products.
+
+## Target Audience
+- חובבי עיצוב הבית
+- דיירי דירות עירוניות
+- רוכשי דירות לראשונה
+
+## Industry
+Furniture & Home Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
